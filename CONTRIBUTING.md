@@ -33,23 +33,20 @@ Suggest new sections, subfolders, or ideas to make the repo easier to navigate.
 
 ---
 
-## 🧭 Getting Started
+## Getting Started
 
 1. **Fork** this repository  
+
 2. **Create a branch** for your edits  
-   ```bash
-   git checkout -b add-my-resource
-Commit your changes
+   `git checkout -b add-my-resource`
 
-bash
-Copy code
-git commit -m "Added new quantum resource"
-Push to your fork
+3. Commit your changes.
+`git commit -m "Added new quantum resource"`
 
-bash
-Copy code
-git push origin add-my-resource
-Open a Pull Request 🎉
+4. Push to your fork.
+`git push origin add-my-resource`
+
+5. Open a Pull Request, and wait for it to be approved.
 
 If it’s your first time contributing on GitHub — don’t worry! You can use GitHub’s web editor and submit a pull request right from your browser.
 
@@ -63,13 +60,13 @@ You can:
 
 Please tag your PRs with #hacktoberfest so it’s counted toward your progress.
 
-❤️ Our Values
+## ❤️ Our Values
 - Be kind and welcoming. Everyone starts somewhere.
 - Assume good intent. We’re here to learn together.
 - Explain simply. The best teachers make hard things feel easy.
 - Give credit. If you use or adapt someone’s work, please cite or link it.
 
-⚖️ License
+## License
 By contributing, you agree that your contributions will be licensed under the MIT License.
 
 ✨ Thanks again for helping make quantum computing more accessible for everyone!
