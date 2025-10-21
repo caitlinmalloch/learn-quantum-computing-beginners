@@ -62,7 +62,7 @@ This Code of Conduct applies:
 ## ⚙️ Reporting Issues
 
 If you experience or witness a violation of this Code of Conduct:
-1. Please open a **confidential GitHub issue** or contact a maintainer directly ([Project team](caitlin.malloch@gmail.com)  
+1. Please open a **confidential GitHub issue** or contact a maintainer directly. [Contact the project team](caitlin.malloch@gmail.com)  
 2. Reports will be reviewed promptly and handled respectfully and privately.  
 
 All reports will remain confidential unless explicit permission is given to share details.
