@@ -1,4 +1,4 @@
-# learn-quantum-computing-beginners
+# Learn Quantum Computing for Beginners
 An open-source repo for beginner learning resources on quantum computing
 
 # Why this repo exists
@@ -19,4 +19,12 @@ This repository welcomes **Hacktoberfest** contributions!
 If you’re new to open source, this is a great place to start:
 - Fix a typo 🪶  
 - Add a beginner resource 📚  
-- Write a short explanation for a key concept 💬  
+- Write a short explanation for a key concept 💬
+
+---
+
+🧡 **Community & Conduct**  
+Please review our [Code of Conduct](./CODE_OF_CONDUCT.md) before contributing.  
+We’re building a kind, inclusive space for curious learners!
+
+---
